@@ -1,4 +1,4 @@
-tensorflow
+tensorflow==latest
 pandas 
 numpy 
 scikit-learn
